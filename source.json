@@ -1,0 +1,8 @@
+{
+    "data_sources": [
+      
+      "https://urlhaus.abuse.ch/downloads/csv_recent/",
+      "http://reputation.alienvault.com/reputation.data",
+      "https://openphish.com/feed.txt"
+    ]
+}
